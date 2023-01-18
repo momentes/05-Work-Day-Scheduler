@@ -19,7 +19,7 @@ This assignment is to create a simple calendar application that allows a user to
 - THEN the saved events persist
 
 **Creator Note:**
-1. Not
+1. Added running timer
 2. Original comments were removed
 3. Below is an example of the website ;
 <img src="Images/Work-Day-Scheduler.png" width=65%>
